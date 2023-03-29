@@ -1,0 +1,17 @@
+{
+	"name": "parcel",
+	"version": "1.0.0",
+	"description": "Exploring parcel",
+	"scripts": {
+		"start": "parcel ./index.html",
+		"build": "parcel build ./index.html"
+	},
+	"author": "maruf",
+	"license": "ISC",
+	"devDependencies": {
+		"parcel": "^2.8.3"
+	},
+	"dependencies": {
+		"three": "^0.150.1"
+	}
+}
